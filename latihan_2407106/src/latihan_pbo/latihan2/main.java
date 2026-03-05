@@ -1,4 +1,4 @@
-package latihan_pbo.latihan1.latihan2;
+package latihan_pbo.latihan2;
 
 
 class PersegiPanjang {
