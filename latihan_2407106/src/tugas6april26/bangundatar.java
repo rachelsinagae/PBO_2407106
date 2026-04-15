@@ -11,17 +11,13 @@ class BangunDatar {
         this.lebar = lebar;
     }
 
-    // getter
-    public double getPanjang() {
-        return panjang;
-    }
-
-    public double getLebar() {
-        return lebar;
-    }
-
     // method hitung luas
-    public double hitungLuas() {
-        return panjang * lebar;
+
+    public double hitungLuas (){
+        return panjang * lebar * 2;
+    }
+
+    public double hitungVlume () {
+        return 0;
     }
 }
